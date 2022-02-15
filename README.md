@@ -169,7 +169,7 @@ Ask Llewellyn Falco [@LlewellynFalco](https://twitter.com/llewellynfalco) or Jon
 
 ### Video Tutorials
 
-You can watch [a series of short videos about using ApprovalTests in .Net](http://www.youtube.com/playlist?list=PL0C32F89E8BBB5368) on YouTube.
+<Not needed>
 
 ### Podcasts
 
